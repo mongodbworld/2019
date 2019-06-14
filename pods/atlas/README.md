@@ -1,4 +1,4 @@
-# MongoDB Atlas builders POD
+# MongoDB Atlas Builders POD
 
 _SA Author_: [Britton LaRoche](mailto:britton.laroche@mongodb.com)   
 
